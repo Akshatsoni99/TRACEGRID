@@ -1,0 +1,10 @@
+Transaction ID,Date and timestamp,Sender account,Sender name,Receiver account,Receiver name,Amount,Transaction type,Description,Reference number
+TXN-SMP-1001,2026-02-20 01:15:00,ACC-VICTIM-01,Sunil Mehta,ACC-MULE-888,Karan Verma,250000.00,IMPS,Online investment return credit,UTR202602200001
+TXN-SMP-1002,2026-02-20 01:22:00,ACC-VICTIM-02,Pooja Sharma,ACC-MULE-888,Karan Verma,180000.00,UPI,Crypto token allotment,UTR202602200002
+TXN-SMP-1003,2026-02-20 01:30:00,ACC-VICTIM-03,Anil Gupta,ACC-MULE-888,Karan Verma,320000.00,RTGS,Loan processing margin,UTR202602200003
+TXN-SMP-1004,2026-02-20 02:10:00,ACC-MULE-888,Karan Verma,ACC-LAYER-991,Apex Offshore Holdings,400000.00,RTGS,Escrow transfer overseas,UTR202602200004
+TXN-SMP-1005,2026-02-20 02:15:00,ACC-MULE-888,Karan Verma,ACC-LAYER-992,Golden Sands Exchange,330000.00,RTGS,Precious metals purchase,UTR202602200005
+TXN-SMP-1006,2026-02-20 02:45:00,ACC-LAYER-991,Apex Offshore Holdings,ACC-SYNDICATE-01,Alpha Nodal Treasury,395000.00,RTGS,Sub-merchant settlement,UTR202602200006
+TXN-SMP-1007,2026-02-20 03:00:00,ACC-LAYER-992,Golden Sands Exchange,ACC-SYNDICATE-01,Alpha Nodal Treasury,325000.00,RTGS,Bullion liquidity sweep,UTR202602200007
+TXN-SMP-1008,2026-02-20 03:30:00,ACC-SYNDICATE-01,Alpha Nodal Treasury,ACC-MULE-888,Karan Verma,50000.00,UPI,Commission cash kickback,UTR202602200008
+
